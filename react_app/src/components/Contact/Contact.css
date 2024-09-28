@@ -1,0 +1,285 @@
+.maincontact {
+  position: relative; 
+  /* overflow: hidden; */
+  height: 100vh;
+}
+
+.maincontact .video-background {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 190%;
+  width: auto;
+  height: auto;
+  z-index: -1; 
+  transform: translate(-50%, -50%); 
+  object-fit: cover; 
+}
+.maincontact  a {
+  text-decoration: none;
+}
+
+.maincontact .social a {
+  padding: 20px;
+  color: #333;
+  font-size: 1.1rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+  opacity: 0; 
+  transform: translateY(20px); 
+  animation: fadeInUp 0.5s forwards; 
+}
+
+.maincontact .social a:hover {
+  color: var(--primary-color); 
+  transform: scale(1.2); 
+}
+
+.maincontact #contact {
+  position: absolute;
+  left: 50%;
+  top: 80%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  animation: fadeIn 1s ease; 
+}
+
+.maincontact .social {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 2px 2px 30px rgba(250, 250, 250, 0.986);
+  transition: background-color 0.5s ease, transform 0.3s ease; /* Add transform transition */
+}
+
+.maincontact .social:hover {
+  background-color: #f7f7f7;
+  transform: translateY(-3px); /* Lift effect on hover */
+}
+
+.maincontact .contact-box {
+  background-color: #000; /* Keep as is, but can change if needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  box-shadow: 2px 0px 30px rgb(255, 255, 255);
+  transition: background-color 0.5s ease, transform 0.3s ease; /* Add transform transition */
+  animation: fadeIn 1s ease; /* Fade in for contact box */
+  color: #fff; /* White text color */
+}
+
+.maincontact .contact-box:hover {
+  background-color: #ffffffd3;
+  color: #000 !important; /* Black text on hover */
+  transform: scale(1.05); /* Scale up on hover */
+}
+
+.maincontact .c-heading h2 {
+  color: #0077b6; /* Primary blue for heading */
+  font-size: 2.5rem;
+  font-weight: lighter;
+  margin: 0;
+  padding: 0;
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.952); /* Add text shadow */
+  animation: slideIn 0.5s ease; /* Animation for heading */
+}
+
+.maincontact .c-heading p {
+  color: #555; /* Changed to a lighter gray for better readability */
+  font-size: 0.8rem;
+  font-weight: lighter;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  animation: fadeIn 0.5s ease; /* Fade in for paragraph */
+}
+
+.maincontact .c-inputs {
+  margin: 15px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.maincontact .c-inputs input {
+  width: 250px;
+  height: 45px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(251, 251, 251, 0.952);
+  outline: none;
+  margin: 10px 0;
+  padding: 10px;
+  color: #333; /* Changed to a darker gray for input text */
+  transition: border-color 0.5s ease, box-shadow 0.5s ease; /* Add box-shadow transition */
+  animation: fadeIn 0.5s ease; /* Fade in for input */
+}
+
+.maincontact .c-inputs input:hover {
+  color: #000; /* Black on hover */
+}
+
+.maincontact .c-inputs input:focus {
+  border-bottom: 1px solid rgba(0, 119, 182, 1); /* Changed to primary blue */
+  background-color: rgba(255, 255, 255, 0.884); /* Light background on focus */
+  box-shadow: 0 0 10px rgba(248, 248, 248, 0.884);
+  color: #000 !important; /* Black when focused */
+}
+
+.maincontact .c-inputs textarea {
+  width: 250px !important;
+  height: 200px !important;
+  outline: none;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.884);
+  color: #333; /* Changed to a darker gray for textarea text */
+  padding: 10px;
+  font-size: 1.2rem;
+  transition: border-color 0.5s ease, box-shadow 0.5s ease; /* Add box-shadow transition */
+  animation: fadeIn 0.5s ease; /* Fade in for textarea */
+}
+
+.maincontact .c-inputs textarea:focus {
+  border: none;
+  color: #000 !important; /* Black when focused */
+  border-bottom: 1px solid rgba(0, 119, 182, 1); /* Changed to primary blue */
+  background-color: rgba(255, 255, 255, 0.856);
+  box-shadow: 0 0 10px rgba(255, 254, 254, 0.829);
+}
+
+.maincontact ::placeholder {
+  color: #777; /* Changed placeholder color for better visibility */
+}
+
+.maincontact .c-inputs button {
+  width: 200px;
+  height: 40px;
+  background-color: #0077b6; /* Changed to primary blue */
+  border: none;
+  outline: none;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 30px rgb(231, 231, 231);
+  letter-spacing: 1px;
+  color: #ffffff; /* Ensure button text is readable */
+  transition: background-color 0.5s ease, transform 0.3s ease; /* Add transform transition */
+  animation: pulse 1s infinite; /* Pulse animation */
+}
+
+.maincontact .c-inputs button:hover {
+  background-color: #005f8a; /* Darker blue for hover state */
+  transform: translateY(-2px); /* Lift effect on hover */
+  color: #fff; /* Ensure hover color is still readable */
+}
+
+.maincontact .c-inputs button:active {
+  transform: scale(0.95); /* Scale down on active */
+}
+
+.maincontact .map {
+  filter: grayscale(0.2);
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.2);
+  border: 2px solid #ffffff;
+  transition: filter 0.5s ease; /* Smooth transition for filter */
+  animation: mapAnimation 1s ease; /* Animation for map */
+}
+
+.maincontact .map:hover {
+  filter: grayscale(0); /* Remove grayscale on hover */
+}
+
+@media (max-width: 1100px) {
+  .maincontact .map {
+    display: none;
+  }
+}
+
+@media (max-width: 450px) {
+  .maincontact .social {
+    display: none;
+  }
+  .maincontact .contact-box {
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+  .maincontact #contact {
+    position: static;
+    transform: translate(0, 0);
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+  .maincontact .c-heading h1 {
+    font-size: 2.2rem;
+    text-align: center;
+  }
+
+  /* Add animation to contact box on smaller screens */
+  .maincontact .contact-box {
+    animation: fadeIn 1s ease;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes mapAnimation {
+  0% {
+    transform: scale(1);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.error {
+  color: red;
+  font-size: 0.9rem;
+  margin: 5px 0;
+}

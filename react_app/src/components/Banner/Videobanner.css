@@ -1,0 +1,56 @@
+
+
+.banner {
+  position: relative;
+  width: 100%;
+  height: 80vh;
+  overflow: hidden;
+}
+
+.banner .video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.banner .video-background video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: 100vh;
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+}
+
+.banner-content p {
+  letter-spacing: 2px;
+  color: white;
+}
+
+.banner-content h2 {
+  font-weight: 500;
+  font-size: clamp(60px, 10vw + 20px, 102px);
+}
+
+.banner-content p {
+  font-weight: 500;
+}
+
+.banner-content .btn-main {
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+  cursor: pointer;
+}
+
+.banner-content .btn-main:hover {
+  background: var(--secondary-color) !important;
+  border: 2px solid var(--secondary-color);
+}
+

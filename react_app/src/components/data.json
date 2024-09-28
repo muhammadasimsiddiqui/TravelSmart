@@ -1,0 +1,2694 @@
+{
+  "Destinations": [
+    {
+      "id": 1,
+      "name": "Hagia Sophia",
+      "description": "An architectural marvel, the Hagia Sophia is a historic site that has served as a cathedral, mosque, and museum.",
+      "location": "Sultanahmet, 34122 Istanbul",
+      "category": "Historical Site",
+      "type": "Landmark",
+      "rating": 4.9,
+      "country": "Turkey",
+      "city": "Istanbul",
+      "image": [
+        "../../img/destination/1.jpg",
+        "../img/destination/1_2.jpg",
+        "../img/destination/1_3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Eiffel Tower",
+      "description": "The iconic symbol of Paris, the Eiffel Tower offers breathtaking views of the city.",
+      "location": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
+      "category": "Monument",
+      "type": "Landmark",
+      "rating": 4.7,
+      "country": "France",
+      "city": "Paris",
+      "image": [
+        "../img/destination/2.jpg",
+        "../img/destination/2_2.jpg",
+        "../img/destination/2_3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Great Wall of China",
+      "description": "A series of fortifications made of various materials, stretching over 13,000 miles.",
+      "location": "Huairou, Beijing",
+      "category": "Historical Site",
+      "type": "Landmark",
+      "rating": 4.8,
+      "country": "China",
+      "city": "Beijing",
+      "image": ["../img/destination/3.jpg", "../img/destination/3_2.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Machu Picchu",
+      "description": "An ancient Incan city set high in the Andes Mountains in Peru.",
+      "location": "Machu Picchu District, Urubamba, Peru",
+      "category": "Historical Site",
+      "type": "Archaeological Site",
+      "rating": 4.9,
+      "country": "Peru",
+      "city": "Machu Picchu",
+      "image": ["../img/destination/4.jpg", "../img/destination/4_2.jpg"]
+    },
+    {
+      "id": 5,
+      "name": "Colosseum",
+      "description": "An ancient amphitheater in Rome, known for gladiatorial contests and public spectacles.",
+      "location": "Piazza del Colosseo, 1, 00184 Roma",
+      "category": "Historical Site",
+      "type": "Landmark",
+      "rating": 4.8,
+      "country": "Italy",
+      "city": "Rome",
+      "image": ["../img/destination/5.jpg", "../img/destination/5_2.jpg"]
+    },
+    {
+      "id": 6,
+      "name": "Statue of Liberty",
+      "description": "A symbol of freedom and democracy, located on Liberty Island in New York City.",
+      "location": "Liberty Island, New York, NY 10004",
+      "category": "Monument",
+      "type": "Landmark",
+      "rating": 4.6,
+      "country": "USA",
+      "city": "New York",
+      "image": ["../img/destination/6.jpg", "../img/destination/6_2.jpg"]
+    },
+    {
+      "id": 7,
+      "name": "Sydney Opera House",
+      "description": "An iconic architectural masterpiece and performing arts center in Sydney.",
+      "location": "Bennelong Point, Sydney NSW 2000, Australia",
+      "category": "Cultural Site",
+      "type": "Landmark",
+      "rating": 4.7,
+      "country": "Australia",
+      "city": "Sydney",
+      "image": ["../img/destination/7.jpg", "../img/destination/7_2.jpg"]
+    },
+    {
+      "id": 8,
+      "name": "Taj Mahal",
+      "description": "An ivory-white marble mausoleum in Agra, built in memory of Mumtaz Mahal.",
+      "location": "Dharmapuri, Tajganj, Agra, Uttar Pradesh 282001, India",
+      "category": "Historical Site",
+      "type": "Mausoleum",
+      "rating": 4.9,
+      "country": "India",
+      "city": "Agra",
+      "image": ["../img/destination/8.jpg", "../img/destination/8_2.jpg"]
+    },
+    {
+      "id": 9,
+      "name": "Santorini",
+      "description": "A picturesque island in the Aegean Sea known for its whitewashed buildings and stunning sunsets.",
+      "location": "Santorini, Greece",
+      "category": "Island",
+      "type": "Destination",
+      "rating": 4.8,
+      "country": "Greece",
+      "city": "Santorini",
+      "image": ["../img/destination/9.jpg", "../img/destination/9_2.jpg"]
+    },
+    {
+      "id": 10,
+      "name": "Niagara Falls",
+      "description": "A group of three waterfalls at the border between Canada and the USA.",
+      "location": "Niagara Falls, NY 14303, USA",
+      "category": "Natural Wonder",
+      "type": "Waterfall",
+      "rating": 4.7,
+      "country": "USA",
+      "city": "Niagara Falls",
+      "image": ["../img/destination/10.jpg", "../img/destination/10_2.jpg"]
+    },
+    {
+      "id": 11,
+      "name": "Burj Khalifa",
+      "description": "The tallest building in the world, located in Dubai.",
+      "location": "1 Sheikh Mohammed bin Rashid Blvd - Downtown Dubai, Dubai, UAE",
+      "category": "Modern Architecture",
+      "type": "Skyscraper",
+      "rating": 4.8,
+      "country": "UAE",
+      "city": "Dubai",
+      "image": ["../img/destination/11.jpg", "../img/destination/11_2.jpg"]
+    },
+    {
+      "id": 12,
+      "name": "Acropolis of Athens",
+      "description": "An ancient citadel located on a rocky outcrop above the city of Athens.",
+      "location": "Athens 105 58, Greece",
+      "category": "Historical Site",
+      "type": "Cultural Heritage",
+      "rating": 4.6,
+      "country": "Greece",
+      "city": "Athens",
+      "image": ["../img/destination/12.jpg", "../img/destination/12_2.jpg"]
+    },
+    {
+      "id": 13,
+      "name": "Stonehenge",
+      "description": "A prehistoric monument consisting of a ring of standing stones in Wiltshire, England.",
+      "location": "A345, Amesbury, Salisbury SP4 7DE, UK",
+      "category": "Historical Site",
+      "type": "Monument",
+      "rating": 4.5,
+      "country": "UK",
+      "city": "Amesbury",
+      "image": ["../img/destination/13.jpg", "../img/destination/13_2.jpg"]
+    },
+    {
+      "id": 14,
+      "name": "Angkor Wat",
+      "description": "A temple complex in Cambodia and the largest religious monument in the world.",
+      "location": "Krong Siem Reap, Cambodia",
+      "category": "Historical Site",
+      "type": "Temple",
+      "rating": 4.9,
+      "country": "Cambodia",
+      "city": "Siem Reap",
+      "image": ["../img/destination/14.jpg", "../img/destination/14_2.jpg"]
+    },
+    {
+      "id": 15,
+      "name": "Grand Canyon",
+      "description": "A steep-sided canyon carved by the Colorado River in Arizona, USA.",
+      "location": "Grand Canyon Village, AZ 86023, USA",
+      "category": "Natural Wonder",
+      "type": "Canyon",
+      "rating": 4.8,
+      "country": "USA",
+      "city": "Grand Canyon Village",
+      "image": ["../img/destination/15.jpg", "../img/destination/15_2.jpg"]
+    },
+    {
+      "id": 16,
+      "name": "Christ the Redeemer",
+      "description": "An iconic statue of Jesus Christ located in Rio de Janeiro, Brazil.",
+      "location": "Parque Nacional da Tijuca - Alto da Boa Vista - Rio de Janeiro - RJ, Brazil",
+      "category": "Monument",
+      "type": "Statue",
+      "rating": 4.7,
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "image": ["../img/destination/16.jpg", "../img/destination/16_2.jpg"]
+    },
+    {
+      "id": 17,
+      "name": "Venice Canals",
+      "description": "A network of canals in Venice, Italy, known for their beauty and gondola rides.",
+      "location": "Venice, Italy",
+      "category": "Cultural Site",
+      "type": "Waterway",
+      "rating": 4.7,
+      "country": "Italy",
+      "city": "Venice",
+      "image": ["../img/destination/17.jpg", "../img/destination/17_2.jpg"]
+    },
+    {
+      "id": 18,
+      "name": "Mount Fuji",
+      "description": "An iconic and sacred mountain located in Japan.",
+      "location": "Yamanashi, Japan",
+      "category": "Natural Wonder",
+      "type": "Mountain",
+      "rating": 4.8,
+      "country": "Japan",
+      "city": "Fujiyoshida",
+      "image": ["../img/destination/18.jpg", "../img/destination/18_2.jpg"]
+    },
+    {
+      "id": 19,
+      "name": "Table Mountain",
+      "description": "A flat-topped mountain overlooking Cape Town, South Africa.",
+      "location": "Cape Town, South Africa",
+      "category": "Natural Wonder",
+      "type": "Mountain",
+      "rating": 4.7,
+      "country": "South Africa",
+      "city": "Cape Town",
+      "image": ["../img/destination/19.jpg", "../img/destination/19_2.jpg"]
+    },
+    {
+      "id": 20,
+      "name": "Pyramids of Giza",
+      "description": "Ancient pyramid structures located near Cairo, Egypt.",
+      "location": "Giza, Egypt",
+      "category": "Historical Site",
+      "type": "Pyramid",
+      "rating": 4.8,
+      "country": "Egypt",
+      "city": "Giza",
+      "image": ["../img/destination/20.jpg", "../img/destination/20_2.jpg"]
+    },
+    {
+      "id": 21,
+      "name": "Santorini",
+      "description": "A picturesque island in the Aegean Sea known for its stunning sunsets and whitewashed buildings.",
+      "location": "Santorini, Greece",
+      "category": "Island",
+      "type": "Destination",
+      "rating": 4.8,
+      "country": "Greece",
+      "city": "Santorini",
+      "image": ["/../img/destination/21.jpg", "/../img/destination/21_2.jpg"]
+    },
+    {
+      "id": 22,
+      "name": "Petra",
+      "description": "An archaeological city famous for its rock-cut architecture and water conduit system.",
+      "location": "Ma'an Governorate, Jordan",
+      "category": "Historical Site",
+      "type": "Archaeological Site",
+      "rating": 4.9,
+      "country": "Jordan",
+      "city": "Petra",
+      "image": ["/../img/destination/22.jpg", "/../img/destination/22_2.jpg"]
+    },
+    {
+      "id": 23,
+      "name": "Moscow Kremlin",
+      "description": "A fortified complex at the heart of Moscow, it includes palaces, cathedrals, and the official residence of the President of Russia.",
+      "location": "Moscow, Russia",
+      "category": "Historical Site",
+      "type": "Fortification",
+      "rating": 4.7,
+      "country": "Russia",
+      "city": "Moscow",
+      "image": ["/../img/destination/23.jpg", "/../img/destination/23_2.jpg"]
+    },
+    {
+      "id": 24,
+      "name": "Great Barrier Reef",
+      "description": "The world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.",
+      "location": "Queensland, Australia",
+      "category": "Natural Wonder",
+      "type": "Coral Reef",
+      "rating": 4.9,
+      "country": "Australia",
+      "city": "Queensland",
+      "image": ["/../img/destination/24.jpg", "/../img/destination/24_2.jpg"]
+    },
+    {
+      "id": 25,
+      "name": "Alhambra",
+      "description": "A palace and fortress complex located in Granada, known for its stunning Islamic architecture.",
+      "location": "Granada, Spain",
+      "category": "Historical Site",
+      "type": "Palace",
+      "rating": 4.8,
+      "country": "Spain",
+      "city": "Granada",
+      "image": ["/../img/destination/25.jpg", "/../img/destination/25_2.jpg"]
+    },
+    {
+      "id": 26,
+      "name": "Galápagos Islands",
+      "description": "An archipelago of volcanic islands renowned for their unique wildlife and natural beauty.",
+      "location": "Ecuador",
+      "category": "Natural Wonder",
+      "type": "Archipelago",
+      "rating": 4.9,
+      "country": "Ecuador",
+      "city": "Galápagos Islands",
+      "image": ["/../img/destination/26.jpg", "/../img/destination/26_2.jpg"]
+    },
+    {
+      "id": 27,
+      "name": "Yellowstone National Park",
+      "description": "The first national park in the world, known for its geothermal features and diverse ecosystems.",
+      "location": "Wyoming, Montana, Idaho, USA",
+      "category": "Natural Wonder",
+      "type": "National Park",
+      "rating": 4.8,
+      "country": "USA",
+      "city": "Yellowstone",
+      "image": ["/../img/destination/27.jpg", "/../img/destination/27_2.jpg"]
+    },
+    {
+      "id": 28,
+      "name": "Torre Eiffel",
+      "description": "The iconic iron lattice tower located on the Champ de Mars in Paris, France.",
+      "location": "Champ de Mars, Paris, France",
+      "category": "Monument",
+      "type": "Landmark",
+      "rating": 4.7,
+      "country": "France",
+      "city": "Paris",
+      "image": ["/../img/destination/28.jpg", "/../img/destination/28_2.jpg"]
+    },
+    {
+      "id": 29,
+      "name": "Burj Al Arab",
+      "description": "A luxury hotel in Dubai, known for its distinctive sail-shaped silhouette.",
+      "location": "Jumeirah, Dubai, UAE",
+      "category": "Modern Architecture",
+      "type": "Hotel",
+      "rating": 4.8,
+      "country": "UAE",
+      "city": "Dubai",
+      "image": ["/../img/destination/29.jpg", "/../img/destination/29_2.jpg"]
+    },
+    {
+      "id": 30,
+      "name": "Eiffel Tower",
+      "description": "The iconic symbol of Paris, offering breathtaking views of the city.",
+      "location": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
+      "category": "Monument",
+      "type": "Landmark",
+      "rating": 4.7,
+      "country": "France",
+      "city": "Paris",
+      "image": ["/../img/destination/11.jpg", "/../img/destination/11_2.jpg"]
+    },
+    {
+      "id": 31,
+      "name": "Statue of Liberty",
+      "description": "A symbol of freedom and democracy, located on Liberty Island in New York City.",
+      "location": "Liberty Island, New York, NY 10004",
+      "category": "Monument",
+      "type": "Landmark",
+      "rating": 4.6,
+      "country": "USA",
+      "city": "New York",
+      "image": ["/../img/destination/31.jpg", "/../img/destination/31_1.jpg"]
+    },
+    {
+      "id": 32,
+      "name": "The Louvre",
+      "description": "The world's largest art museum and a historic monument in Paris, France.",
+      "location": "Rue de Rivoli, 75001 Paris, France",
+      "category": "Cultural Site",
+      "type": "Museum",
+      "rating": 4.9,
+      "country": "France",
+      "city": "Paris",
+      "image": ["/../img/destination/32.jpg", "/../img/destination/32_2.jpg"]
+    },
+    {
+      "id": 33,
+      "name": "Machu Picchu",
+      "description": "An ancient Incan city set high in the Andes Mountains in Peru.",
+      "location": "Machu Picchu District, Urubamba, Peru",
+      "category": "Historical Site",
+      "type": "Archaeological Site",
+      "rating": 4.9,
+      "country": "Peru",
+      "city": "Machu Picchu",
+      "image": ["/../img/destination/33.jpg", "/../img/destination/33_2.jpg"]
+    },
+    {
+      "id": 34,
+      "name": "Acropolis of Athens",
+      "description": "An ancient citadel located on a rocky outcrop above the city of Athens.",
+      "location": "Athens 105 58, Greece",
+      "category": "Historical Site",
+      "type": "Cultural Heritage",
+      "rating": 4.6,
+      "country": "Greece",
+      "city": "Athens",
+      "image": ["/../img/destination/34.jpg", "/../img/destination/34_2.jpg"]
+    },
+    {
+      "id": 35,
+      "name": "Sydney Opera House",
+      "description": "An iconic architectural masterpiece and performing arts center in Sydney.",
+      "location": "Bennelong Point, Sydney NSW 2000, Australia",
+      "category": "Cultural Site",
+      "type": "Landmark",
+      "rating": 4.7,
+      "country": "Australia",
+      "city": "Sydney",
+      "image": ["/../img/destination/35.jpg", "/../img/destination/35_2.jpg"]
+    },
+    {
+      "id": 36,
+      "name": "Grand Canyon",
+      "description": "A steep-sided canyon carved by the Colorado River in Arizona, USA.",
+      "location": "Grand Canyon Village, AZ 86023, USA",
+      "category": "Natural Wonder",
+      "type": "Canyon",
+      "rating": 4.8,
+      "country": "USA",
+      "city": "Grand Canyon Village",
+      "image": ["/../img/destination/36.jpg", "/../img/destination/36_2.jpg"]
+    },
+    {
+      "id": 37,
+      "name": "Stonehenge",
+      "description": "A prehistoric monument consisting of a ring of standing stones in Wiltshire, England.",
+      "location": "A345, Amesbury, Salisbury SP4 7DE, UK",
+      "category": "Historical Site",
+      "type": "Monument",
+      "rating": 4.5,
+      "country": "UK",
+      "city": "Amesbury",
+      "image": ["/../img/destination/37.jpg", "/../img/destination/37_2.jpg"]
+    },
+    {
+      "id": 38,
+      "name": "Victoria Falls",
+      "description": "One of the largest and most famous waterfalls in the world, located on the border of Zambia and Zimbabwe.",
+      "location": "Victoria Falls, Zambia/Zimbabwe",
+      "category": "Natural Wonder",
+      "type": "Waterfall",
+      "rating": 4.8,
+      "country": "Zambia/Zimbabwe",
+      "city": "Victoria Falls",
+      "image": ["/../img/destination/38.jpg", "/../img/destination/38_2.jpg"]
+    },
+    {
+      "id": 39,
+      "name": "Neuschwanstein Castle",
+      "description": "A 19th-century Romanesque revival palace on a rugged hill in Bavaria, Germany.",
+      "location": "Neuschwansteinstrasse 20, 87645 Schwangau, Germany",
+      "category": "Historical Site",
+      "type": "Castle",
+      "rating": 4.7,
+      "country": "Germany",
+      "city": "Schwangau",
+      "image": ["/../img/destination/39.jpg", "/../img/destination/39_2.jpg"]
+    },
+    {
+      "id": 40,
+      "name": "Milan Cathedral",
+      "description": "A stunning Gothic cathedral located in the center of Milan, Italy.",
+      "location": "Piazza del Duomo, 20122 Milano MI, Italy",
+      "category": "Historical Site",
+      "type": "Cathedral",
+      "rating": 4.8,
+      "country": "Italy",
+      "city": "Milan",
+      "image": ["/../img/destination/40.jpg", "/../img/destination/40_2.jpg"]
+    },
+    {
+      "id": 41,
+      "name": "Banaue Rice Terraces",
+      "description": "Ancient rice terraces located in the Philippines, often referred to as the 'Eighth Wonder of the World'.",
+      "location": "Banaue, Ifugao, Philippines",
+      "category": "Cultural Site",
+      "type": "Terrace",
+      "rating": 4.7,
+      "country": "Philippines",
+      "city": "Banaue",
+      "image": ["/../img/destination/41.jpg", "/../img/destination/41_2.jpg"]
+    },
+    {
+      "id": 42,
+      "name": "Chichen Itza",
+      "description": "A large pre-Columbian archaeological site built by the Maya civilization in Mexico.",
+      "location": "Chichen Itza, Yucatan, Mexico",
+      "category": "Historical Site",
+      "type": "Archaeological Site",
+      "rating": 4.8,
+      "country": "Mexico",
+      "city": "Chichen Itza",
+      "image": ["/../img/destination/43.jpg", "/../img/destination/43_2.jpg"]
+    },
+    {
+      "id": 44,
+      "name": "Zhangjiajie National Forest Park",
+      "description": "A UNESCO World Heritage Site in China, known for its towering sandstone pillars.",
+      "location": "Zhangjiajie, Hunan, China",
+      "category": "Natural Wonder",
+      "type": "National Park",
+      "rating": 4.8,
+      "country": "China",
+      "city": "Zhangjiajie",
+      "image": ["/../img/destination/11.jpg", "/../img/destination/11_2.jpg"]
+    },
+    {
+      "id": 45,
+      "name": "Cliffs of Moher",
+      "description": "Stunning sea cliffs located on the west coast of Ireland, offering breathtaking views of the Atlantic Ocean.",
+      "location": "Cliffs of Moher, Liscannor, County Clare, Ireland",
+      "category": "Natural Wonder",
+      "type": "Cliff",
+      "rating": 4.7,
+      "country": "Ireland",
+      "city": "County Clare",
+      "image": ["/../img/destination/14.jpg", "/../img/destination/14_2.jpg"]
+    },
+    {
+      "id": 46,
+      "name": "Serengeti National Park",
+      "description": "A national park in Tanzania known for its wildlife and annual migration of wildebeest.",
+      "location": "Tanzania",
+      "category": "Natural Wonder",
+      "type": "National Park",
+      "rating": 4.9,
+      "country": "Tanzania",
+      "city": "Serengeti",
+      "image": ["/../img/destination/19.jpg", "/../img/destination/19_2.jpg"]
+    },
+    {
+      "id": 47,
+      "name": "Angkor Wat",
+      "description": "A temple complex in Cambodia and the largest religious monument in the world.",
+      "location": "Krong Siem Reap, Cambodia",
+      "category": "Historical Site",
+      "type": "Temple",
+      "rating": 4.9,
+      "country": "Cambodia",
+      "city": "Siem Reap",
+      "image": ["/../img/destination/10.jpg", "/../img/destination/10_2.jpg"]
+    },
+    {
+      "id": 48,
+      "name": "Banff National Park",
+      "description": "Canada's first national park, known for its stunning mountain landscapes and outdoor activities.",
+      "location": "Alberta, Canada",
+      "category": "Natural Wonder",
+      "type": "National Park",
+      "rating": 4.8,
+      "country": "Canada",
+      "city": "Banff",
+      "image": ["/../img/destination/9.jpg", "/../img/destination/9_2.jpg"]
+    },
+    {
+      "id": 49,
+      "name": "Halong Bay",
+      "description": "A UNESCO World Heritage site known for its emerald waters and thousands of towering limestone islands.",
+      "location": "Quang Ninh, Vietnam",
+      "category": "Natural Wonder",
+      "type": "Bay",
+      "rating": 4.8,
+      "country": "Vietnam",
+      "city": "Halong",
+      "image": ["/../img/destination/3.jpg", "/../img/destination/3_2.jpg"]
+    },
+    {
+      "id": 50,
+      "name": "Kilimanjaro",
+      "description": "The highest mountain in Africa, known for its snow-capped summit and diverse ecosystems.",
+      "location": "Tanzania",
+      "category": "Natural Wonder",
+      "type": "Mountain",
+      "rating": 4.7,
+      "country": "Tanzania",
+      "city": "Kilimanjaro",
+      "image": ["/../img/destination/7.jpg", "/../img/destination/7_2.jpg"]
+    }
+  ],
+
+  "Accommodation": [
+    {
+      "id": 1,
+      "name": "Four Seasons Hotel Istanbul",
+      "country": "Turkey",
+      "city": "Istanbul",
+      "location": "At Meydani No. 22, Sultanahmet, 34110 Istanbul",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 450,
+      "highlights": [
+        "Historic building",
+        "Stunning Bosphorus views",
+        "Fine dining restaurant"
+      ],
+      "image": [
+        "../img/accommodations/FSHI 1.jfif",
+        "../img/accommodations/FSHI 2.jpg",
+        "../img/accommodations/FSHI 3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Ritz-Carlton, Paris",
+      "country": "France",
+      "city": "Paris",
+      "location": "15 Place Vendôme, 75001 Paris",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 1000,
+      "highlights": [
+        "Luxury /ommodations",
+        "Gourmet dining",
+        "Central location"
+      ],
+      "image": [
+        "../img/accommodations/paris1.jfif",
+        "../img/accommodations/paris2.jfif",
+        "../img/accommodations/paris3.jfif"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The St. Regis New York",
+      "country": "USA",
+      "city": "New York",
+      "location": "2 E 55th St at Fifth Avenue, New York, NY 10022",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 800,
+      "highlights": [
+        "Classic elegance",
+        "Luxurious amenities",
+        "Prime location"
+      ],
+      "image": [
+        "../img/accommodations/new york.jpg",
+        "../img/accommodations/new york.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Dorchester",
+      "country": "United Kingdom",
+      "city": "London",
+      "location": "53 Park Lane, London W1K 1QA",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": ["Art Deco style", "Fine dining", "Impeccable service"],
+      "image": [
+        "../img/accommodations/dorechest1.jpg",
+        "../img/accommodations/dorechest2.jfif",
+        "../img/accommodations/dorechest3.jfif"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Badrutt's Palace Hotel",
+      "country": "Switzerland",
+      "city": "St. Moritz",
+      "location": "Via Veglia 18, 7500 St. Moritz",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": ["Historic landmark", "Ski-in/ski-out /ess", "Fine dining"],
+      "image": [
+        "../img/accommodations/badrusst1.jpg",
+        "../img/accommodations/buddrest2.jpg",
+        "../img/accommodations/buddrest3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sofitel Legend The Grand Amsterdam",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "location": "Oudezijds Voorburgwal 197, 1012 EX Amsterdam",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 500,
+      "highlights": [
+        "Historic elegance",
+        "Luxurious gardens",
+        "Gourmet dining"
+      ],
+      "image": [
+        "../img/accommodations/sofitel5.jfif",
+        "../img/accommodations/sofitel6.jfif",
+        "../img/accommodations/sofitel7.jfif"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Palace Hotel Tokyo",
+      "country": "Japan",
+      "city": "Tokyo",
+      "location": "1-1-1 Marunouchi, Chiyoda City, Tokyo 100-0005",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": [
+        "Stunning views of the Imperial Palace",
+        "Award-winning restaurants",
+        "Luxurious spa"
+      ],
+      "image": [
+        "../img/accommodations/Tokyo1.jpg",
+        "../img/accommodations/Tokyo2.jfif",
+        "../img/accommodations/Tokyo4.jfif"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hotel Arts Barcelona",
+      "country": "Spain",
+      "city": "Barcelona",
+      "location": "Marina 19-21, 08005 Barcelona",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 700,
+      "highlights": ["Oceanfront views", "Contemporary art", "Gourmet dining"],
+      "image": [
+        "../img/accommodations/Hotel1.jfif",
+        "../img/accommodations/Hotel2.jfif",
+        "../img/accommodations/Hotel2.jfif"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Grand Hotel Tremezzo",
+      "country": "Italy",
+      "city": "Lake Como",
+      "location": "Via Regina 8, 22016 Tremezzo CO",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 800,
+      "highlights": [
+        "Lakeside location",
+        "Luxurious spa",
+        "Historical elegance"
+      ],
+      "image": [
+        "../img/accommodations/Tremz1.webp",
+        "../img/accommodations/Tremz2.jfif",
+        "../img/accommodations/Tremz3.jfif"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "The Greenwich Hotel",
+      "country": "USA",
+      "city": "New York",
+      "location": "377 Greenwich St, New York, NY 10013",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.7,
+      "pricePerNight": 750,
+      "highlights": ["Charming decor", "Private spa", "Outstanding service"],
+      "image": [
+        "../img/accommodations/Green1.webp",
+        "../img/accommodations/Green2.jfif",
+        "../img/accommodations/Green3.jfif",
+        "../img/accommodations/Green4.jfif"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "The St. Regis Bahia Beach Resort",
+      "country": "Puerto Rico",
+      "city": "Rio Grande",
+      "location": "State Rd 187, Rio Grande, 00745",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": ["Beachfront luxury", "Golf course", "Exceptional dining"],
+      "image": [
+        "../img/accommodations/Regis1.jpg",
+        "../img/accommodations/Regis2.jfif",
+        "../img/accommodations/Regis3.jfif"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hotel de Russie",
+      "country": "Italy",
+      "city": "Rome",
+      "location": "Via del Bocc/io, 29, 00187 Roma RM",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": ["Beautiful gardens", "Fine dining", "Central location"],
+      "image": [
+        "../img/accommodations/Russia.webp",
+        "../img/accommodations/Russia1.jfif",
+        "../img/accommodations/Russia2.jfif"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "The Chedi Hotel",
+      "country": "Switzerland",
+      "city": "Andermatt",
+      "location": "Gotthardstrasse 4, 6490 Andermatt",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 800,
+      "highlights": [
+        "Alpine retreat",
+        "World-class dining",
+        "Spa and wellness"
+      ],
+      "image": [
+        "../img/accommodations/oman1.jpg",
+        "../img/accommodations/oman2.jfif",
+        "../img/accommodations/oman3.jfif"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "The Fairmont Banff Springs",
+      "country": "Canada",
+      "city": "Banff",
+      "location": "405 Spray Ave, Banff, AB T1L 1J4",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": [
+        "Castle-like architecture",
+        "Spectacular mountain views",
+        "World-class amenities"
+      ],
+      "image": [
+        "../img/accommodations/farming1.jpg",
+        "../img/accommodations/farming2.jfif",
+        "../img/accommodations/farming3.jfif"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Raffles Hotel Singapore",
+      "country": "Singapore",
+      "city": "Singapore",
+      "location": "1 Beach Rd, 189673",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": ["Colonial charm", "Famous Long Bar", "Luxurious suites"],
+      "image": [
+        "../img/accommodations/Raffle1.jfif",
+        "../img/accommodations/Raffle2.jfif",
+        "../img/accommodations/Raffle3.jfif"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "The Peninsula Bangkok",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "location": "333 Charoennakorn Rd, Klongtonsai, Klongsan, Bangkok 10600",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 500,
+      "highlights": [
+        "Riverside luxury",
+        "Exceptional dining",
+        "Spa and wellness"
+      ],
+      "image": [
+        "../img/accommodations/bankok1.avif",
+        "../img/accommodations/bankok2.jfif",
+        "../img/accommodations/bankok3.jfif"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Carlyle, A Rosewood Hotel",
+      "country": "USA",
+      "city": "New York",
+      "location": "35 E 76th St, New York, NY 10021",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": [
+        "Timeless elegance",
+        "Renowned dining",
+        "Exclusive ambiance"
+      ],
+      "image": [
+        "../img/accommodations/rosewood1.jfif",
+        "../img/accommodations/rosewood2.jfif",
+        "../img/accommodations/rosewood3.jfif"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "The Mulia, Nusa Dua",
+      "country": "Indonesia",
+      "city": "Nusa Dua",
+      "location": "Jalan Raya Nusa Dua Selatan No. 1, Nusa Dua, Bali 80363",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 650,
+      "highlights": [
+        "Private beach /ess",
+        "Lavish pool areas",
+        "Gourmet dining options"
+      ],
+      "image": [
+        "../img/accommodations/mulia1.jfif",
+        "../img/accommodations/mulia2.jfif",
+        "../img/accommodations/mulia3.jfif"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "The Silo Hotel",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "location": "Silo Square, V&A Waterfront, Cape Town 8010",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": [
+        "Stunning views of Table Mountain",
+        "Contemporary design",
+        "World-class dining"
+      ],
+      "image": [
+        "../img/accommodations/silo1.jpg",
+        "../img/accommodations/silo2.jfif",
+        "../img/accommodations/silo3.jfif"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "The Adlon Kempinski Berlin",
+      "country": "Germany",
+      "city": "Berlin",
+      "location": "Unter den Linden 77, 10117 Berlin",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": ["Historic location", "Elegant rooms", "Fine dining"],
+      "image": [
+        "../img/accommodations/berlin1.jfif",
+        "../img/accommodations/berlin2.jfif",
+        "../img/accommodations/berlin3.jfif"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Lotte New York Palace",
+      "country": "USA",
+      "city": "New York",
+      "location": "455 Madison Ave, New York, NY 10022",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 700,
+      "highlights": [
+        "Historic building",
+        "Luxurious /ommodations",
+        "Central location"
+      ],
+      "image": [
+        "../img/accommodations/lotte1.jpg",
+        "../img/accommodations/lotte2.jfif",
+        "../img/accommodations/lotte3.jfif"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "The St. Regis Aspen Resort",
+      "country": "USA",
+      "city": "Aspen",
+      "location": "315 E Dean St, Aspen, CO 81611",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 800,
+      "highlights": [
+        "Ski resort luxury",
+        "World-class amenities",
+        "Fine dining"
+      ],
+      "image": [
+        "../img/accommodations/resort1.webp",
+        "../img/accommodations/resort2.jfif",
+        "../img/accommodations/resort3.jfif"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "The Setai, Miami Beach",
+      "country": "USA",
+      "city": "Miami Beach",
+      "location": "2001 Collins Ave, Miami Beach, FL 33139",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 700,
+      "highlights": ["Art Deco style", "Oceanfront pools", "Fine dining"],
+      "image": [
+        "../img/accommodations/setail1.jfif",
+        "../img/accommodations/setail3.jfif",
+        "../img/accommodations/setail4.jfif"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Ritz-Carlton, Cancun",
+      "country": "Mexico",
+      "city": "Cancun",
+      "location": "Retorno del Rey, Lote 37, 77500 Cancún",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 800,
+      "highlights": ["Beachfront luxury", "Fine dining", "Spa services"],
+      "image": [
+        "../img/accommodations/cancun1.jpg",
+        "../img/accommodations/cancun2.jfif",
+        "../img/accommodations/cancun3.jfif"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Grand Hyatt Kauai Resort & Spa",
+      "country": "USA",
+      "city": "Koloa",
+      "location": "1571 Poipu Rd, Koloa, HI 96756",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": ["Tropical paradise", "Lush gardens", "World-class dining"],
+      "image": [
+        "../img/accommodations/spa1.jpg",
+        "../img/accommodations/spa2.jfif",
+        "../img/accommodations/spa3.jfif"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "The St. Regis Bora Bora Resort",
+      "country": "French Polynesia",
+      "city": "Bora Bora",
+      "location": "Motu Ome'e, 98730 Bora Bora",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 1200,
+      "highlights": [
+        "Overwater bungalows",
+        "Stunning lagoon views",
+        "World-class dining"
+      ],
+      "image": [
+        "../img/accommodations/bora1.jpg",
+        "../img/accommodations/bora2.jfif",
+        "../img/accommodations/bora3.jfif"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "The Four Seasons Resort Bali at Sayan",
+      "country": "Indonesia",
+      "city": "Ubud",
+      "location": "Sayan, Ubud, Bali 80571",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": ["Jungle views", "Wellness retreat", "Exquisite dining"],
+      "image": [
+        "../img/accommodations/bali1.jfif",
+        "../img/accommodations/bali2.jfif",
+        "../img/accommodations/bali3.jfif"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "The Clift Royal Sonesta Hotel",
+      "country": "USA",
+      "city": "San Francisco",
+      "location": "495 Geary St, San Francisco, CA 94102",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.7,
+      "pricePerNight": 450,
+      "highlights": ["Historic charm", "Stylish decor", "Central location"],
+      "image": [
+        "../img/accommodations/clift1.jfif",
+        "../img/accommodations/clift2.jfif",
+        "../img/accommodations/clift3.jfif"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "InterContinental Danang Sun Peninsula Resort",
+      "country": "Vietnam",
+      "city": "Da Nang",
+      "location": "Bana Hills, Da Nang",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": [
+        "Beachfront /ess",
+        "Lush tropical gardens",
+        "World-class dining"
+      ],
+      "image": [
+        "../img/accommodations/SUN1.avif",
+        "../img/accommodations/SUN2.jfif",
+        "../img/accommodations/SUN3.jfif"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "The Shilla Seoul",
+      "country": "South Korea",
+      "city": "Seoul",
+      "location": "249 Dongho-ro, Jung-gu, Seoul",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 500,
+      "highlights": [
+        "Traditional elegance",
+        "Luxurious spa",
+        "Exceptional dining"
+      ],
+      "image": [
+        "../img/accommodations/shilla1.jpg",
+        "../img/accommodations/shilla2.jfif",
+        "../img/accommodations/shilla3.jfif"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Hotel Negresco",
+      "country": "France",
+      "city": "Nice",
+      "location": "37 Promenade des Anglais, 06000 Nice",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 700,
+      "highlights": ["Iconic design", "Stunning sea views", "Fine dining"],
+      "image": [
+        "../img/accommodations/negrose1.jpg",
+        "../img/accommodations/negrose2.jfif",
+        "../img/accommodations/negrose3.jfif"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "The Oberoi Udaivilas",
+      "country": "India",
+      "city": "Udaipur",
+      "location": "Haridasji Ki Magri, Udaipur, Rajasthan 313001",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 800,
+      "highlights": [
+        "Palatial architecture",
+        "Lakeside views",
+        "World-class dining"
+      ],
+      "image": [
+        "../img/accommodations/oberio1.jpg",
+        "../img/accommodations/oberio2.jfif",
+        "../img/accommodations/oberio3.jfif"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Amanpuri",
+      "country": "Thailand",
+      "city": "Phuket",
+      "location": "Pansea Beach, 83110 Phuket",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 1000,
+      "highlights": [
+        "Private beach",
+        "Luxurious villas",
+        "Exceptional service"
+      ],
+      "image": [
+        "../img/accommodations/amanpuri1.jfif",
+        "../img/accommodations/amanpuri2.jfif",
+        "../img/accommodations/amanpuri3.jfif"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "The Langham, Chicago",
+      "country": "USA",
+      "city": "Chicago",
+      "location": "330 N Wabash Ave, Chicago, IL 60611",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 700,
+      "highlights": ["Riverside luxury", "Fine dining", "Exquisite rooms"],
+      "image": [
+        "../img/ommodations/chiacago1.jpg",
+        "../img/ommodations/chicago2.jfif",
+        "../img/ommodations/chicago3.jfif"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "The Inn at Little Washington",
+      "country": "USA",
+      "city": "Washington",
+      "location": "309 Middle St, Washington, VA 22747",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 1200,
+      "highlights": [
+        "Relais & Châteaux property",
+        "Award-winning cuisine",
+        "Intimate setting"
+      ],
+      "image": [
+        "../img/accommodations/washigton1.jpg",
+        "../img/accommodations/washigton2.jfif",
+        "../img/accommodations/washigton3.jfif"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Nizuc Resort & Spa",
+      "country": "Mexico",
+      "city": "Cancun",
+      "location": "Carretera Federal 307, 77500 Cancún",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 800,
+      "highlights": [
+        "Stunning beachfront",
+        "Luxury spa",
+        "Fine dining options"
+      ],
+      "image": [
+        "../img/accommodations/nizcu1.webp",
+        "../img/accommodations/nizcu2.jfif",
+        "../img/accommodations/nizcu3.jfif"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Soneva Fushi",
+      "country": "Maldives",
+      "city": "Kunfunadhoo",
+      "location": "Kunfunadhoo Island, 20215",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 1500,
+      "highlights": [
+        "Eco-friendly luxury",
+        "Private villas",
+        "World-class dining"
+      ],
+      "image": [
+        "../img/accommodations/fusi1.jpg",
+        "../img/accommodations/fusi2.jfif",
+        "../img/accommodations/fusi3.jfif",
+        "../img/accommodations/fusi4.jfif"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "The Leela Palace Udaipur",
+      "country": "India",
+      "city": "Udaipur",
+      "location": "Lake Pichola, Udaipur, Rajasthan 313001",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": ["Palatial style", "Lakeside views", "Exquisite dining"],
+      "image": [
+        "../img/accommodations/leela1.webp",
+        "../img/accommodations/leela2.jfif",
+        "../img/accommodations/leela3.jfif"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "The Baur Au Lac",
+      "country": "Switzerland",
+      "city": "Zurich",
+      "location": "Talstrasse 1, 8001 Zürich",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 700,
+      "highlights": ["Stunning lake views", "Historic charm", "Fine dining"],
+      "image": [
+        "../img/accommodations/baur1.jpg",
+        "../img/accommodations/baru2.jfif",
+        "../img/accommodations/baru3.jfif"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Hotel Bel-Air",
+      "country": "USA",
+      "city": "Los Angeles",
+      "location": "701 Stone Canyon Rd, Los Angeles, CA 90077",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": [
+        "Secluded gardens",
+        "Classic Hollywood charm",
+        "Gourmet dining"
+      ],
+      "image": [
+        "../img/accommodations/bel1.jpg",
+        "../img/accommodations/bel2.jfif",
+        "../img/accommodations/berlin3.jfif"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "The Venetian Resort",
+      "country": "USA",
+      "city": "Las Vegas",
+      "location": "3355 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.7,
+      "pricePerNight": 500,
+      "highlights": [
+        "Canal-side luxury",
+        "World-class entertainment",
+        "Fine dining"
+      ],
+      "image": [
+        "../img/accommodations/ventian1.webp",
+        "../img/accommodations/ventian2.jfif",
+        "../img/accommodations/ventian3.jfif"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Oberoi Mumbai",
+      "country": "India",
+      "city": "Mumbai",
+      "location": "Nariman Point, Mumbai, Maharashtra 400021",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": [
+        "Stunning ocean views",
+        "World-class service",
+        "Gourmet dining"
+      ],
+      "image": [
+        "../img/accommodations/mumbai1.webp",
+        "../img/accommodations/mumbai2.jfif",
+        "../img/accommodations/mumbai3.jfif"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "The Ritz-Carlton, Kyoto",
+      "country": "Japan",
+      "city": "Kyoto",
+      "location": "Kamogawa, Nakagyo Ward, Kyoto 605-0001",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": [
+        "Historic charm",
+        "Riverside views",
+        "Traditional Japanese cuisine"
+      ],
+      "image": [
+        "../img/accommodations/kyato1.webp",
+        "../img/accommodations/kyato2.jfif",
+        "../img/accommodations/kyato3.jfif"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Belmond Hotel Cipriani",
+      "country": "Italy",
+      "city": "Venice",
+      "location": "Giudecca 10, 30133 Venezia",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 900,
+      "highlights": [
+        "Iconic Venetian charm",
+        "Stunning views of the lagoon",
+        "Exquisite dining"
+      ],
+      "image": [
+        "../img/accommodations/belmond1.jpg",
+        "../img/accommodations/belmond2.jfif",
+        "../img/accommodations/belmond3.jfif"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Shangri-La Hotel, Sydney",
+      "country": "Australia",
+      "city": "Sydney",
+      "location": "176 Cumberland St, The Rocks, Sydney NSW 2000",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": ["Harbor views", "Luxurious spa", "Fine dining"],
+      "image": [
+        "../img/accommodations/shangri1.jfif",
+        "../img/accommodations/shangri2.jfif",
+        "../img/accommodations/shangri3.jfif"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "The Savoy",
+      "country": "UK",
+      "city": "London",
+      "location": "Strand, London WC2R 0EU, United Kingdom",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 700,
+      "highlights": ["Iconic luxury", "Exceptional service", "Fine dining"],
+      "image": [
+        "../img/accommodations/savyon1.jpeg",
+        "../img/accommodations/savyon2.jfif",
+        "../img/accommodations/savyon3.jfif"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "The Peninsula Paris",
+      "country": "France",
+      "city": "Paris",
+      "location": "19 Avenue Kléber, 75116 Paris",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 1000,
+      "highlights": [
+        "Stunning views of the Eiffel Tower",
+        "Elegant rooms",
+        "Exquisite dining"
+      ],
+      "image": [
+        "../img/accommodations/pensula1.jpg",
+        "../img/accommodations/pensula2.jfif",
+        "../img/accommodations/pensula3.jfif"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Waldorf Astoria Los Angeles",
+      "country": "USA",
+      "city": "Los Angeles",
+      "location": "9850 Wilshire Blvd, Beverly Hills, CA 90210",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 800,
+      "highlights": ["Hollywood glamour", "Exquisite dining", "Luxurious spa"],
+      "image": [
+        "../img/accommodations/los1.jpg",
+        "../img/accommodations/los2.jfif",
+        "../img/accommodations/los3.jfif"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "The Greenbrier",
+      "country": "USA",
+      "city": "White Sulphur Springs",
+      "location": "300 W Main St, White Sulphur Springs, WV 24986",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.8,
+      "pricePerNight": 600,
+      "highlights": [
+        "Historic resort",
+        "World-class amenities",
+        "Beautiful grounds"
+      ],
+      "image": [
+        "../img/accommodations/greenberi1.jpg",
+        "../img/accommodations/greenberi2.jfif",
+        "../img/accommodations/greenberi3.jfif"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Peninsula Chicago",
+      "country": "USA",
+      "city": "Chicago",
+      "location": "108 E Superior St, Chicago, IL 60611",
+      "category": "Luxury Hotel",
+      "type": "5-Star",
+      "rating": 4.9,
+      "pricePerNight": 900,
+      "highlights": ["Downtown luxury", "Rooftop pool", "Exceptional dining"],
+      "image": [
+        "../img/accommodations/peni1.webp",
+        "../img/accommodations/peni2.jfif",
+        "../img/accommodations/peni3.jfif"
+      ]
+    }
+  ],
+  "Transport": [
+    {
+      "id": 1,
+      "origin": "Karachi, Pakistan",
+      "destination": "Istanbul, Turkey",
+      "rating": 4.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Emirates",
+            "departure": "2024-12-01",
+            "arrival": "2024-12-01",
+            "price": 250,
+            "duration": "3h 30m",
+            "nearestAirport": "Dubai International Airport",
+            "image": [
+              "../img/travel/emirates1.jfif",
+              "../img/travel/emirates2.jfif",
+              "../img/travel/emirates3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "origin": "London, UK",
+      "destination": "New York, USA",
+      "rating": 3.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "British Airways",
+            "departure": "2024-12-02",
+            "arrival": "2024-12-02",
+            "price": 600,
+            "duration": "8h",
+            "nearestAirport": "John F. Kennedy International Airport",
+            "image": [
+              "../img/travel/british1.jfif",
+              "../img/travel/british2.jfif",
+              "../img/travel/british3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "origin": "Sydney, Australia",
+      "destination": "Tokyo, Japan",
+      "rating": 4.0,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Qantas",
+            "departure": "2024-12-03",
+            "arrival": "2024-12-03",
+            "price": 700,
+            "duration": "9h",
+            "nearestAirport": "Tokyo Haneda Airport",
+            "image": [
+              "../img/travel/emirates3.jfif",
+              "../img/travel/Quanta2.jfif",
+              "../img/travel/Quantas3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "origin": "Toronto, Canada",
+      "rating": 5.0,
+      "destination": "Los Angeles, USA",
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Air Canada",
+            "departure": "2024-12-04",
+            "arrival": "2024-12-04",
+            "price": 400,
+            "duration": "5h 30m",
+            "nearestAirport": "Los Angeles International Airport",
+            "image": [
+              "../img/travel/caneda3.jfif",
+              "../img/travel/caneda2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "origin": "Paris, France",
+      "destination": "Rome, Italy",
+      "rating": 3.9,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Air France",
+            "departure": "2024-12-05",
+            "arrival": "2024-12-05",
+            "price": 150,
+            "duration": "2h",
+            "nearestAirport": "Leonardo da Vinci International Airport",
+            "image": [
+              "../img/travel/france1.webp",
+              "../img/travel/france2.jfif",
+              "../img/travel/france3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "origin": "Berlin, Germany",
+      "destination": "Barcelona, Spain",
+      "rating": 5.0,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Lufthansa",
+            "departure": "2024-12-06",
+            "arrival": "2024-12-06",
+            "price": 180,
+            "duration": "2h 20m",
+            "nearestAirport": "Barcelona-El Prat Airport",
+            "image": [
+              "../img/travel/luthasa1.jpg",
+              "../img/travel/luthasa2.jfif",
+              "../img/travel/luthasa3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "origin": "Dubai, UAE",
+      "destination": "Cairo, Egypt",
+      "rating": 4.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "EgyptAir",
+            "departure": "2024-12-07",
+            "arrival": "2024-12-07",
+            "price": 200,
+            "duration": "3h",
+            "nearestAirport": "Cairo International Airport",
+            "image": [
+              "../img/travel/egypt1.jpg",
+              "../img/travel/egypt2.jfif",
+              "../img/travel/egypt3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "origin": "Beijing, China",
+      "destination": "Seoul, South Korea",
+      "rating": 4.2,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Korean Air",
+            "departure": "2024-12-08",
+            "arrival": "2024-12-08",
+            "price": 300,
+            "duration": "2h",
+            "nearestAirport": "Incheon International Airport",
+            "image": [
+              "../img/travel/korean1.avif",
+              "../img/travel/korean2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "origin": "Mumbai, India",
+      "rating": 4.3,
+      "destination": "Bangkok, Thailand",
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "IndiGo",
+            "departure": "2024-12-09",
+            "arrival": "2024-12-09",
+            "price": 120,
+            "duration": "4h",
+            "nearestAirport": "Suvarnabhumi Airport",
+            "image": [
+              "../img/travel/indigo1.jfif",
+              "../img/travel/indigo2.jfif",
+              "../img/travel/indigo3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "origin": "Rio de Janeiro, Brazil",
+      "destination": "Buenos Aires, Argentina",
+      "rating": 4.5,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "LATAM Airlines",
+            "departure": "2024-12-10",
+            "arrival": "2024-12-10",
+            "price": 220,
+            "duration": "3h",
+            "nearestAirport": "Ministro Pistarini International Airport",
+            "image": ["../img/travel/latam2.jfif", "../img/travel/latam2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "origin": "Bangkok, Thailand",
+      "destination": "Hanoi, Vietnam",
+      "rating": 4.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Thai Airways",
+            "departure": "2024-12-11",
+            "arrival": "2024-12-11",
+            "price": 90,
+            "duration": "1h 30m",
+            "nearestAirport": "Noi Bai International Airport",
+            "image": ["../img/travel/thai1.jpg", "../img/travel/thai2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "origin": "Moscow, Russia",
+      "destination": "Warsaw, Poland",
+      "rating": 4.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Aeroflot",
+            "departure": "2024-12-12",
+            "arrival": "2024-12-12",
+            "price": 250,
+            "duration": "2h",
+            "nearestAirport": "Warsaw Chopin Airport",
+            "image": [
+              "../img/travel/aeroflat1.jpg",
+              "../img/travel/aeroflat2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "origin": "Lisbon, Portugal",
+      "destination": "Madrid, Spain",
+      "rating": 4.2,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "TAP Air Portugal",
+            "departure": "2024-12-13",
+            "arrival": "2024-12-13",
+            "price": 120,
+            "duration": "1h 20m",
+            "nearestAirport": "Adolfo Suárez Madrid-Barajas Airport",
+            "image": ["../img/travel/Tap1.jpeg", "../img/travel/Tap2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "origin": "Singapore",
+      "destination": "Kuala Lumpur, Malaysia",
+      "rating": 4.0,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Malaysia Airlines",
+            "departure": "2024-12-14",
+            "arrival": "2024-12-14",
+            "price": 50,
+            "duration": "1h",
+            "nearestAirport": "Kuala Lumpur International Airport",
+            "image": [
+              "../img/travel/malaysia1.jpg",
+              "../img/travel/malaysia2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "origin": "San Francisco, USA",
+      "destination": "Vancouver, Canada",
+      "rating": 4.1,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Alaska Airlines",
+            "departure": "2024-12-15",
+            "arrival": "2024-12-15",
+            "price": 150,
+            "duration": "2h",
+            "nearestAirport": "Vancouver International Airport",
+            "image": ["../img/travel/alaska1.jpg", "../img/travel/alaska2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "origin": "Los Angeles, USA",
+      "destination": "Mexico City, Mexico",
+      "rating": 4.4,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "AeroMexico",
+            "departure": "2024-12-16",
+            "arrival": "2024-12-16",
+            "price": 200,
+            "duration": "4h",
+            "nearestAirport": "Mexico City International Airport",
+            "image": ["../img/travel/maxcio2.jfif", "../img/travel/mexico1.jpg"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "origin": "Santiago, Chile",
+      "destination": "Lima, Peru",
+      "rating": 4.0,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "LATAM Airlines",
+            "departure": "2024-12-17",
+            "arrival": "2024-12-17",
+            "price": 120,
+            "duration": "3h",
+            "nearestAirport": "Jorge Chávez International Airport",
+            "image": ["../img/travel/latam3.jfif", "../img/travel/latam2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "origin": "Dubai, UAE",
+      "destination": "Doha, Qatar",
+      "rating": 3.6,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Qatar Airways",
+            "departure": "2024-12-18",
+            "arrival": "2024-12-18",
+            "price": 150,
+            "duration": "1h",
+            "nearestAirport": "Hamad International Airport",
+            "image": ["../img/travel/Qatar1.jpg", "../img/travel/Qatar2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "origin": "Helsinki, Finland",
+      "destination": "Stockholm, Sweden",
+      "rating": 3.9,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Finnair",
+            "departure": "2024-12-19",
+            "arrival": "2024-12-19",
+            "price": 100,
+            "duration": "1h 15m",
+            "nearestAirport": "Stockholm Arlanda Airport",
+            "image": [
+              "../img/travel/finnair1.jpg",
+              "../img/travel/finnar2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "origin": "Copenhagen, Denmark",
+      "destination": "Oslo, Norway",
+      "rating": 4.9,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "SAS",
+            "departure": "2024-12-20",
+            "arrival": "2024-12-20",
+            "price": 150,
+            "duration": "1h",
+            "nearestAirport": "Oslo Gardermoen Airport",
+            "image": ["../img/travel/sas1.jpg", "../img/travel/sas2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "origin": "Dubai, UAE",
+      "destination": "Bahrain",
+      "rating": 4.2,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Gulf Air",
+            "departure": "2024-12-21",
+            "arrival": "2024-12-21",
+            "price": 120,
+            "duration": "1h",
+            "nearestAirport": "Bahrain International Airport",
+            "image": [
+              "../img/travel/Gulf-Airs-1-1050x640.jpg",
+              "../img/travel/Gulfairline2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "origin": "Singapore",
+      "destination": "Jakarta, Indonesia",
+      "rating": 4.7,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Garuda Indonesia",
+            "departure": "2024-12-22",
+            "arrival": "2024-12-22",
+            "price": 90,
+            "duration": "1h 45m",
+            "nearestAirport": "Soekarno–Hatta International Airport",
+            "image": [
+              "../img/travel/garuda1.avif",
+              "../img/travel/garuda2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "origin": "Kuala Lumpur, Malaysia",
+      "destination": "Bangkok, Thailand",
+      "rating": 4.3,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "AirAsia",
+            "departure": "2024-12-23",
+            "arrival": "2024-12-23",
+            "price": 50,
+            "duration": "1h 30m",
+            "nearestAirport": "Suvarnabhumi Airport",
+            "image": [
+              "../img/travel/airasia1.jpg",
+              "../img/travel/airasia2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "origin": "Tokyo, Japan",
+      "destination": "Seoul, South Korea",
+      "rating": 4.4,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Asiana Airlines",
+            "departure": "2024-12-24",
+            "arrival": "2024-12-24",
+            "price": 180,
+            "duration": "2h",
+            "nearestAirport": "Incheon International Airport",
+            "image": [
+              "../img/travel/Asiana1.webp",
+              "../img/travel/Asiana2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "origin": "Bangkok, Thailand",
+      "destination": "Phuket, Thailand",
+      "rating": 4.3,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Thai Airways",
+            "departure": "2024-12-25",
+            "arrival": "2024-12-25",
+            "price": 75,
+            "duration": "1h 20m",
+            "nearestAirport": "Phuket International Airport",
+            "image": ["../img/travel/thai1.jpg", "../img/travel/thai2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "origin": "Nairobi, Kenya",
+      "destination": "Johannesburg, South Africa",
+      "rating": 4.7,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Kenya Airways",
+            "departure": "2024-12-26",
+            "arrival": "2024-12-26",
+            "price": 150,
+            "duration": "4h",
+            "nearestAirport": "O.R. Tambo International Airport",
+            "image": ["../img/travel/kenya1.jfif", "../img/travel/kenya2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "origin": "Lagos, Nigeria",
+      "destination": "ra, Ghana",
+      "rating": 4.1,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Arik Air",
+            "departure": "2024-12-27",
+            "arrival": "2024-12-27",
+            "price": 100,
+            "duration": "1h",
+            "nearestAirport": "Kotoka International Airport",
+            "image": [
+              "../img/travel/arik air.jfif",
+              "../img/travel/arik air2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "origin": "Kairo, Egypt",
+      "destination": "Riyadh, Saudi Arabia",
+      "rating": 4.0,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Saudi Airlines",
+            "departure": "2024-12-28",
+            "arrival": "2024-12-28",
+            "price": 200,
+            "duration": "2h 30m",
+            "nearestAirport": "King Khalid International Airport",
+            "image": ["../img/travel/saudi1.jpg", "../img/travel/saudi2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "origin": "Hanoi, Vietnam",
+      "destination": "Ho Chi Minh City, Vietnam",
+      "rating": 4.9,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Vietnam Airlines",
+            "departure": "2024-12-29",
+            "arrival": "2024-12-29",
+            "price": 90,
+            "duration": "1h 30m",
+            "nearestAirport": "Tan Son Nhat International Airport",
+            "image": ["../img/travel/vitem1.jpg", "../img/travel/vitem2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "origin": "Doha, Qatar",
+      "destination": "Muscat, Oman",
+      "rating": 4.6,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Oman Air",
+            "departure": "2024-12-30",
+            "arrival": "2024-12-30",
+            "price": 120,
+            "duration": "1h 30m",
+            "nearestAirport": "Muscat International Airport",
+            "image": ["../img/travel/oman1.jpg", "../img/travel/oman2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "origin": "Bangkok, Thailand",
+      "destination": "Chiang Mai, Thailand",
+      "rating": 4.4,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Thai Airways",
+            "departure": "2024-12-31",
+            "arrival": "2024-12-31",
+            "price": 80,
+            "duration": "1h 20m",
+            "nearestAirport": "Chiang Mai International Airport",
+            "image": ["../img/travel/thai1.jpg", "../img/travel/thai2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "origin": "Montreal, Canada",
+      "destination": "New York, USA",
+      "rating": 4.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Air Canada",
+            "departure": "2024-12-01",
+            "arrival": "2024-12-01",
+            "price": 250,
+            "duration": "1h 15m",
+            "nearestAirport": "John F. Kennedy International Airport",
+            "image": [
+              "../img/travel/air-canada.jpg",
+              "../img/travel/aircaneda5.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "origin": "Cairo, Egypt",
+      "destination": "Dubai, UAE",
+      "rating": 4.9,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Emirates",
+            "departure": "2024-12-02",
+            "arrival": "2024-12-02",
+            "price": 300,
+            "duration": "3h",
+            "nearestAirport": "Dubai International Airport",
+            "image": ["../img/travel/egypt1.jpg", "../img/travel/egypt3.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "origin": "Lisbon, Portugal",
+      "destination": "Paris, France",
+      "rating": 4.7,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Air France",
+            "departure": "2024-12-03",
+            "arrival": "2024-12-03",
+            "price": 200,
+            "duration": "2h",
+            "nearestAirport": "Charles de Gaulle Airport",
+            "image": [
+              "../img/travel/airfrance1.jfif",
+              "../img/travel/france2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "origin": "San Francisco, USA",
+      "destination": "Seattle, USA",
+      "rating": 4.2,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Alaska Airlines",
+            "departure": "2024-12-04",
+            "arrival": "2024-12-04",
+            "price": 120,
+            "duration": "2h",
+            "nearestAirport": "Seattle–Tacoma International Airport",
+            "image": ["../img/travel/alaska1.jpg", "../img/travel/alaska2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "origin": "Berlin, Germany",
+      "destination": "Vienna, Austria",
+      "rating": 4.9,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Austrian Airlines",
+            "departure": "2024-12-05",
+            "arrival": "2024-12-05",
+            "price": 160,
+            "duration": "1h 30m",
+            "nearestAirport": "Vienna International Airport",
+            "image": [
+              "../img/travel/austrian1.jpg",
+              "../img/travel/austrian2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "origin": "Helsinki, Finland",
+      "destination": "Tallinn, Estonia",
+      "rating": 3.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Finnair",
+            "departure": "2024-12-06",
+            "arrival": "2024-12-06",
+            "price": 80,
+            "duration": "1h",
+            "nearestAirport": "Tallinn Airport",
+            "image": [
+              "../img/travel/finnair1.jpg",
+              "../img/travel/finnar2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "origin": "Dubai, UAE",
+      "destination": "Abu Dhabi, UAE",
+      "rating": 4.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Etihad Airways",
+            "departure": "2024-12-07",
+            "arrival": "2024-12-07",
+            "price": 50,
+            "duration": "1h",
+            "nearestAirport": "Abu Dhabi International Airport",
+            "image": [
+              "../img/travel/ehtihad1.jfif",
+              "../img/travel/ehtihad2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "origin": "San Juan, Puerto Rico",
+      "destination": "Miami, USA",
+      "rating": 4.6,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "American Airlines",
+            "departure": "2024-12-08",
+            "arrival": "2024-12-08",
+            "price": 150,
+            "duration": "2h 30m",
+            "nearestAirport": "Miami International Airport",
+            "image": [
+              "../img/travel/america1.jpg",
+              "../img/travel/america2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "origin": "Tokyo, Japan",
+      "destination": "Shanghai, China",
+      "rating": 4.6,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "China Eastern Airlines",
+            "departure": "2024-12-09",
+            "arrival": "2024-12-09",
+            "price": 250,
+            "duration": "2h 30m",
+            "nearestAirport": "Shanghai Pudong International Airport",
+            "image": [
+              "../img/travel/china eastren1.jpg",
+              "../img/travel/china eastren2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "origin": "Paris, France",
+      "destination": "Berlin, Germany",
+      "rating": 4.4,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Lufthansa",
+            "departure": "2024-12-10",
+            "arrival": "2024-12-10",
+            "price": 150,
+            "duration": "1h 50m",
+            "nearestAirport": "Berlin Brandenburg Airport",
+            "image": [
+              "../img/travel/luthasa1.jpg",
+              "../img/travel/luthasa2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "origin": "Bangkok, Thailand",
+      "destination": "Manila, Philippines",
+      "rating": 4.2,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Philippine Airlines",
+            "departure": "2024-12-11",
+            "arrival": "2024-12-11",
+            "price": 150,
+            "duration": "3h",
+            "nearestAirport": "Ninoy Aquino International Airport",
+            "image": [
+              "../img/travel/Philippine-Airlines-Main-jpg.webp",
+              "../img/travel/philippine2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "origin": "New Delhi, India",
+      "destination": "Dubai, UAE",
+      "rating": 4.1,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Emirates",
+            "departure": "2024-12-12",
+            "arrival": "2024-12-12",
+            "price": 200,
+            "duration": "3h",
+            "nearestAirport": "Dubai International Airport",
+            "image": ["../img/travel/egypt1.jpg"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "origin": "Santiago, Chile",
+      "destination": "Buenos Aires, Argentina",
+      "rating": 4.7,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "LATAM Airlines",
+            "departure": "2024-12-13",
+            "arrival": "2024-12-13",
+            "price": 150,
+            "duration": "2h",
+            "nearestAirport": "Ministro Pistarini International Airport",
+            "image": ["../img/travel/latam2.jfif", "../img/travel/latam3.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "origin": "Montreal, Canada",
+      "destination": "Toronto, Canada",
+      "rating": 4.3,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Air Canada",
+            "departure": "2024-12-14",
+            "arrival": "2024-12-14",
+            "price": 120,
+            "duration": "1h 15m",
+            "nearestAirport": "Toronto Pearson International Airport",
+            "image": [
+              "../img/travel/caneda2.jfif",
+              "../img/travel/caneda3.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "origin": "Dublin, Ireland",
+      "destination": "Edinburgh, Scotland",
+      "rating": 4.0,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Ryanair",
+            "departure": "2024-12-15",
+            "arrival": "2024-12-15",
+            "price": 70,
+            "duration": "1h 30m",
+            "nearestAirport": "Edinburgh Airport",
+            "image": [
+              "../img/travel/Rynaira.png",
+              "../img/travel/Rynaria2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "origin": "Los Angeles, USA",
+      "destination": "San Diego, USA",
+      "rating": 4.6,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Southwest Airlines",
+            "departure": "2024-12-16",
+            "arrival": "2024-12-16",
+            "price": 90,
+            "duration": "1h",
+            "nearestAirport": "San Diego International Airport",
+            "image": [
+              "../img/travel/southwest1.jfif",
+              "../img/travel/southwest2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "origin": "Mexico City, Mexico",
+      "rating": 4.0,
+      "destination": "Cancún, Mexico",
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Interjet",
+            "departure": "2024-12-17",
+            "arrival": "2024-12-17",
+            "price": 80,
+            "duration": "2h",
+            "nearestAirport": "Cancún International Airport",
+            "image": [
+              "../img/travel/inerjet2.jfif",
+              "../img/travel/interjet.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "origin": "Rio de Janeiro, Brazil",
+      "destination": "São Paulo, Brazil",
+      "rating": 5.0,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Gol Linhas Aéreas",
+            "departure": "2024-12-18",
+            "arrival": "2024-12-18",
+            "price": 100,
+            "duration": "1h",
+            "nearestAirport": "São Paulo/Guarulhos–Governador André Franco Montoro International Airport",
+            "image": ["../img/travel/gol1.jpg", "../img/travel/gol2.jfif"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "origin": "Madrid, Spain",
+      "destination": "Barcelona, Spain",
+      "rating": 3.8,
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "Iberia",
+            "departure": "2024-12-19",
+            "arrival": "2024-12-19",
+            "price": 150,
+            "duration": "1h 30m",
+            "nearestAirport": "Barcelona-El Prat Airport",
+            "image": [
+              "../img/travel/iberia.1jpg.jpg",
+              "../img/travel/iberia2.jfif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "origin": "Los Angeles, USA",
+      "destination": "New York, USA",
+      "transport": [
+        {
+          "type": "Airline",
+          "details": {
+            "airline": "American Airlines",
+            "departure": "2024-12-20",
+            "arrival": "2024-12-20",
+            "price": 300,
+            "duration": "5h 30m",
+            "nearestAirport": "John F. Kennedy International Airport",
+            "image": [
+              "../img/travel/america1.jpg",
+              "../img/travel/america2.jfif"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

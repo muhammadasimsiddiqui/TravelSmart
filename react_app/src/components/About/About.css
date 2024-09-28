@@ -1,0 +1,20 @@
+
+/*** About Start ***/
+.about .container .section-about-title {
+    position: relative;
+    display: inline-block;
+    text-transform: uppercase;
+    color: var(--bs-primary);
+}
+
+.about .container .section-about-title::before {
+    content: "";
+    width: 50px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    margin-right: -50px;
+    border: 1px solid var(--bs-primary) !important;
+}
+/*** About End ***/
